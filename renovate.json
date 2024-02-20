@@ -1,5 +1,6 @@
 {
   "env": {
-    "NPM_EMAIL": "rahultesnik@gmail.com"
-  }
+    "TEST_KEY": "TEST_VALU"
+  },
+  "prHourlyLimit": 10
 }
