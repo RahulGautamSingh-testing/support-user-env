@@ -1,6 +1,6 @@
 {
   "env": {
-    "TEST_KEY": "TEST_VALU"
+    "TEST_KEY": "TEST_VALUE"
   },
   "prHourlyLimit": 10,
   "lockFileMaintenance": { "enabled": true }
